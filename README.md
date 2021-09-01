@@ -26,6 +26,7 @@ Este directorio contiene todo el código de base que se entrega para el funciona
     |--Algorithms: Implementación de los algoritmos vistos en el curso (por ejemplo algoritmos de ordenamiento)
 
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
+    Carolina Chinchilla-m.chinchilla@uniandes.edu.co-202011842 Sofía Escobar s.escobart@uniandes.edu.co 202021047
 
 Carolina Chinchilla Rojas - 202011842 - m.chinchilla@uniandes.edu.co
 Sofía Escobar - s.escobart@uniandes.edu.co - 202021047
